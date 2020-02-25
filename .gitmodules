@@ -1,0 +1,12 @@
+[submodule "blue-service"]
+	path = blue-service
+	url = git@github.com:agapebondservant/blue-service.git
+[submodule "red-service"]
+	path = red-service
+	url = git@github.com:agapebondservant/red-service.git
+[submodule "voting-app-gateway"]
+	path = voting-app-gateway
+	url = git@github.com:agapebondservant/voting-app-gateway.git
+[submodule "voting-app-dashboard"]
+	path = voting-app-dashboard
+	url = git@github.com:agapebondservant/voting-app-dashboard.git
