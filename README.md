@@ -32,5 +32,5 @@ Other enhancements that can be easily introduced:
 	 
  4. Cd into the root directories for each submodule and run **./mvnw spring-boot:run** to start the service.
  
- 5. Go to localhost:8000 on your browser. The dashboard app should be shown with data populating.
+ 5. Go to [here](http://localhost:8500) on your browser. The dashboard app should be shown with data populating.
 
