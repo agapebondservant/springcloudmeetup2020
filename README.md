@@ -1,7 +1,7 @@
 ## Demonstration of Spring Cloud with Consul
 
 ### Overview
-This is a *suuuper* basic Voter Dashboard app that aggregates real-time data from 2 separate teams ("Red" squad and "Blue" squad) and displays it in a basic visualization. It consists mainly of *blue* and *red* microservices which collect the voting data and send it to the front-end app via an API Gateway. To do this, it utilizes:
+This is a *suuuper* basic Voter Dashboard app that aggregates real-time data from 2 separate teams ("Red" squad and "Blue" squad) and displays it in a basic visualization. It has a *blue* and *red* microservice which collects voting data and sends it to the front-end app via an API Gateway. To do this, it utilizes:
 
  - Spring Webflux for reactive web API;
  - Spring Cloud Consul Discovery for service discovery;
@@ -32,5 +32,5 @@ Other enhancements that can be easily introduced:
 	 
  4. Cd into the root directories for each submodule and run **./mvnw spring-boot:run** to start the service.
  
- 5. Go to [here](http://localhost:8500) on your browser. The dashboard app should be shown with data populating.
+ 5. Navigate to [this link](http://localhost:8000) on your browser. The dashboard app should be shown with data populating.
 
