@@ -1,7 +1,7 @@
-## Demonstration of Spring Cloud with Consul
+## Demonstration of Spring Cloud with Consul and Resilience4j
 
 ### Overview
-This is a *suuuper* basic Voter Dashboard app that aggregates real-time data from 2 separate teams ("Red" squad and "Blue" squad) and displays it in a basic visualization. The microservices collect voting data and send it to the front-end app via an API Gateway. To do this, it utilizes:
+This is a *suuuper* basic Voter Dashboard app that aggregates real-time data from 2 separate teams ("Red" squad and "Blue" squad) and displays it in a visualization. The microservices collect voting data and send it to the front-end app via an API Gateway. To do this, it utilizes:
 
  - Spring Webflux for reactive web API;
  - Spring Cloud Consul Discovery for service discovery;
