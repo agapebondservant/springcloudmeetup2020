@@ -10,3 +10,6 @@
 [submodule "voting-app-dashboard"]
 	path = voting-app-dashboard
 	url = git@github.com:agapebondservant/voting-app-dashboard.git
+[submodule "voting-app-data-generator"]
+	path = voting-app-data-generator
+	url = git@github.com:agapebondservant/voting-app-data-generator.git
