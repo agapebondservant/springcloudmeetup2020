@@ -14,6 +14,7 @@ Other enhancements that can be easily introduced:
  - Spring Cloud Config for externalized configuration;
  - Spring Cloud Sleuth & Spring Cloud Zipkin for distributed tracing;
  - Spring Cloud Rabbit for messaging;
+ - Spring Cloud Contract for contract testing;
  - etc...
 
 ### How to run
