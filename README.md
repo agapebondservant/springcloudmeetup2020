@@ -31,7 +31,7 @@ Other enhancements that can be easily introduced:
 	 - Start a consul agent in server mode: ```consul agent -server=true -bootstrap=true -client=0.0.0.0 -ui -data-dir=/tmp/consul```
 	 - Verify that it's running by going [here](http://localhost:8500) on your browser.
 	 
- 4. Cd into the root directories for each submodule and run ```./mvnw spring-boot:run``` to start the service.
+ 4. Cd into the root directories for each submodule and run ```./mvnw spring-boot:run``` to start each service.
  
  5. Navigate to [this link](http://localhost:8000) on your browser. The dashboard app should be shown with data populating.
 
