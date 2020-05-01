@@ -16,6 +16,7 @@ Other enhancements that can be easily introduced:
  - Spring Cloud Rabbit for messaging;
  - Spring Cloud Contract for contract testing;
  - etc...
+<img src="screenshots/VoteDashboardArch.001.jpeg" alt="Architecture Overview"/>
 
 ### How to run
 
